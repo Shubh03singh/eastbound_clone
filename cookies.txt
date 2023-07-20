@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	MjIxMDI0MTAwMjc1NDExMzAyODc2ODc4NTg5NDc5NDE2OTYyNTE4
+dropbox.com	TRUE	/	FALSE	1999999999	t	ha_w8CiOuxc4aWpqVYyY0D0M
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	ha_w8CiOuxc4aWpqVYyY0D0M
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-ss	tNvHzwZdII
+www.dropbox.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+
